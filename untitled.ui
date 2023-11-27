@@ -35,8 +35,8 @@
      <rect>
       <x>10</x>
       <y>0</y>
-      <width>77</width>
-      <height>13</height>
+      <width>201</width>
+      <height>20</height>
      </rect>
     </property>
     <property name="text">
@@ -85,20 +85,13 @@
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>160</x>
+      <x>150</x>
       <y>210</y>
       <width>84</width>
       <height>114</height>
      </rect>
     </property>
     <layout class="QVBoxLayout" name="verticalLayout_2">
-     <item>
-      <widget class="QPushButton" name="pushButton_2">
-       <property name="text">
-        <string>Нова Замітка</string>
-       </property>
-      </widget>
-     </item>
      <item>
       <layout class="QVBoxLayout" name="verticalLayout">
        <item>
@@ -141,7 +134,7 @@
      <rect>
       <x>10</x>
       <y>210</y>
-      <width>141</width>
+      <width>131</width>
       <height>121</height>
      </rect>
     </property>
@@ -154,6 +147,19 @@
       <width>531</width>
       <height>20</height>
      </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>340</y>
+      <width>131</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Нова Замітка</string>
     </property>
    </widget>
   </widget>
